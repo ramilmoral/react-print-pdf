@@ -1,6 +1,10 @@
+# Print to React sample code snippet
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-This is a sample print pdf using react-to-print in NextJS (React)
+The purpose of this is to show how to use react-to-print on React/NextJS
+
+For other details such as **Known Issues**, **Compatability** and **Styling** please refer to the doucmentation in the repository [`react-to-print`](https://github.com/MatthewHerbst/react-to-print#readme)
 
 ## Getting Started
 
@@ -21,6 +25,8 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Package installed
+
+Other package autoamatically installed by your choice when you create nextjs app (e.g. React router, tailwind and Typescript)
 
 ```bash
 tailwindcss
